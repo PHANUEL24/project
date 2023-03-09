@@ -1,0 +1,4 @@
+StepDefinations\BookSteps.class
+StepDefinations\SearchSteps.class
+StepDefinations\LoginSteps.class
+TestRunners\TestRunner.class
